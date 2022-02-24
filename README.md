@@ -1,9 +1,9 @@
 # Hello! I'm Flávio Prado.
 
-   ⌨️ Backend developer at Code Weavers.
-   💻 NodeJs, JavaScript and TypeScript Developer.
-   👨‍💼 NestJs developer focused on Rest API, Microservices innovation and AWS Services.
-   👨‍💻 Experience with VB.Net, WPF, ASP.Net Razor, JQuery, Oracle and PostgreSQL.
+   ⌨️ Backend developer at Code Weavers.<br>
+   💻 NodeJs, JavaScript and TypeScript Developer.<br>
+   👨‍💼 NestJs developer focused on Rest API, Microservices innovation and AWS Services.<br>
+   👨‍💻 Experience with VB.Net, WPF, ASP.Net Razor, JQuery, Oracle and PostgreSQL.<br>
     
 <div align="center">
   <a href="https://github.com/flaviohsprado">
