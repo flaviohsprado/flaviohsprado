@@ -5,7 +5,7 @@
    👨‍💼 NestJs developer focused on Rest API, Microservices innovation and AWS Services.<br>
    👨‍💻 Experience with VB.Net, WPF, ASP.Net Razor, JQuery, Oracle and PostgreSQL.<br>
     
-<div align="center">
+<div align="center" style="display: flex">
   <a href="https://github.com/flaviohsprado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviohsprado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohsprado&layout=compact&langs_count=7&theme=dracula"/>
