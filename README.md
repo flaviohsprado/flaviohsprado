@@ -1,6 +1,6 @@
 # Hello! I'm Flávio Prado.
 
-   ⌨️ Backend developer at Code Weavers.<br>
+   ⌨️ Backend developer at Vivo (Telefônica).<br>
    💻 NodeJs, JavaScript and TypeScript Developer.<br>
    👨‍💼 NestJs developer focused on Rest API, Microservices innovation and AWS Services.<br>
    👨‍💻 Experience with VB.Net, WPF, ASP.Net Razor, JQuery, Oracle and PostgreSQL.<br>
