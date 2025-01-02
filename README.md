@@ -13,11 +13,10 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Flavio-node" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Flavio-typescript" height="60" width="100" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg">
   <img align="center" alt="Flavio-nest" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Flavio-next" height="60" width="100" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg">   
   <img align="center" alt="Flavio-postgresql" height="60" width="100" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Flavio-oracle" height="60" width="100" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/oracle/oracle-original.svg">
   <img align="center" alt="Flavio-express" height="60" width="100" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/express/express-original-wordmark.svg">
-  <img align="center" alt="Flavio-heroku" height="60" width="100" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/heroku/heroku-original-wordmark.svg">
-  <img align="center" alt="Flavio-jquery" height="60" width="100" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jquery/jquery-original-wordmark.svg">
   <img align="center" alt="Flavio-awsServices" height="60" width="100" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
